@@ -1,4 +1,4 @@
-# <p align="center">A Telegram ChatGPT bot</p>
+# <p align="center">A Telegram ChatGPT bot build test</p>
 <p align="center">
   <a href="https://discord.gg/ccZn9ZMfFf">
     <img src="https://img.shields.io/badge/chat-Discord-7289DA?logo=discord" alt="flows.network Discord">
